@@ -42,7 +42,7 @@ const Footer = () => {
             <div className='flex'>
                 <div className='w-[30%]'>
                     <div className='logo-block'>
-                        <a href="#"><img src="public/assets/site-logo.svg" className='h-[100px]' alt="site-logo" /></a>
+                        <a href="#"><img src="/assets/site-logo.svg" className='h-[100px]' alt="site-logo" /></a>
                     </div>
                     <ul className='flex ft-social-links gap-6 mt-12'>
                         <li><a href="#"><FaTwitter/></a></li>

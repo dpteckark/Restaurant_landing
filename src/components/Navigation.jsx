@@ -8,7 +8,7 @@ const Navigation = () => {
             <div className='container'>
                 <nav>
                     <div className='site-logo'>
-                        <a href="#"><img src="public/assets/site-logo.svg" alt="site-logo" /></a>
+                        <a href="#"><img src="/assets/site-logo.svg" alt="site-logo" /></a>
                     </div>
                     <ul>
                         <li><a href="#">Home</a></li>

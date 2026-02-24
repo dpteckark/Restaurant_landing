@@ -5,19 +5,19 @@ const Work = () => {
     const WorkCardData = [
         {
             title: 'Pick Meals',
-            imgUrl: 'public/assets/Pick_Meals.svg',
+            imgUrl: '/assets/Pick_Meals.svg',
             imgAlt: 'Card1',
             desc: 'Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.'
         },
         {
             title: 'Choose How Often',
-            imgUrl: 'public/assets/Choose_How_Often.svg',
+            imgUrl: '/assets/Choose_How_Often.svg',
             imgAlt: 'Card2',
             desc: 'Lorem ipsum dolor sit amet consectetur. Maecenas orci et',
         },
         {
             title: 'Fast Deliveries',
-            imgUrl: 'public/assets/Fast_Deliveries.svg',
+            imgUrl: '/assets/Fast_Deliveries.svg',
             imgAlt: 'Card3',
             desc: 'Lorem ipsum dolor sit amet consectetur. Maecenas orci et lorem ipsum',
         },
