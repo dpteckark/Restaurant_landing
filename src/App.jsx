@@ -7,6 +7,7 @@ import Work from './components/Work'
 import Testimonial from './components/Testimonial'
 import Connect from './components/Connect'
 import Footer from './components/Footer'
+// import FoodList from './components/FoodList'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <About/>
       <Work/>
       <Testimonial/>
+      {/* <FoodList/> */}
       <Connect/>
       <Footer/>
     </>
