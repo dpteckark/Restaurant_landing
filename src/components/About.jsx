@@ -8,7 +8,7 @@ const About = () => {
             {/* <div className='container'> */}
                 <div className='about-content flex items-center'>
                     <div className="img-wrapper w-[50%] flex justify-end pr-16">
-                        <img src="src/assets/About-Banner.png" alt="About" />
+                        <img src="public/assets/About-Banner.png" alt="About" />
                     </div>
                     <div className='content-wrapper w-[50%] max-w-[760px]'>
                         <span className='title-label'>About</span>

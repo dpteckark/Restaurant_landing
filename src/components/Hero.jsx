@@ -5,7 +5,7 @@ const Hero = () => {
   const ButtonClicked = () => {
     console.log('ButtonClicked!');
   }
-  const bgImgUrl = 'src/assets/Banner-Background.png';
+  const bgImgUrl = 'public/assets/Banner-Background.png';
   return (
     <div className='hero-wrapper bg-[length:800px] bg-no-repeat bg-[top_right] pt-[350px] pb-[100px]' style={{ backgroundImage: `url(${bgImgUrl})` }}>
       <div className=' h-full'>
@@ -16,7 +16,7 @@ const Hero = () => {
             <Button onClick={ButtonClicked} isIconVisible={true} txt='Order Now' />
           </div>
           <div className='img-wrapper w-[59%]'>
-            <img src="src/assets/banner-img.png" className='banner-img' alt="banner" />
+            <img src="public/assets/banner-img.png" className='banner-img' alt="banner" />
           </div>
         </div>
       </div>

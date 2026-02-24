@@ -7,23 +7,23 @@ import { BiNavigation } from 'react-icons/bi';
 const Testimonialdata = [
     {
         UserName: 'User1',
-        imgUrl: 'src/assets/profile.png',
+        imgUrl: 'public/assets/profile.png',
         imgAlt: 'User1',
-        Ratings: 'src/assets/Ratings.svg',
+        Ratings: 'public/assets/Ratings.svg',
         desc: 'ex eius dicta autem cum quidem delectus! Non aperiam saepe earum quis velit molestias? Consequatur aspernatur, debitis deleniti quisquam nostrum eveniet quia quidem ipsum nulla ab vitae, omnis reiciendis temporibus est. Eligendi amet qui fuga tempore aliquid sint, culpa nulla, animi quae ea commodi, labore vel ullam repellendus repellat laudantium recusandae cumque itaque quas. Animi quasi quaerat tempora provident illo!',
     },
     {
         UserName: 'User2',
-        imgUrl: 'src/assets/profile.png',
+        imgUrl: 'public/assets/profile.png',
         imgAlt: 'User2',
-        Ratings: 'src/assets/Ratings.svg',
+        Ratings: 'public/assets/Ratings.svg',
         desc: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto culpa consectetur nemo, numquam odit vero veniam tempora? Voluptatibus numquam, unde harum esse natus quae odio nesciunt nam impedit cumque quibusdam ex eius dicta autem cum quidem delectus!',
     },
     {
         UserName: 'User3',
-        imgUrl: 'src/assets/profile.png',
+        imgUrl: 'public/assets/profile.png',
         imgAlt: 'User3',
-        Ratings: 'src/assets/Ratings.svg',
+        Ratings: 'public/assets/Ratings.svg',
         desc: 'utem cum quidem delectus! Non aperiam saepe earum quis velit molestias? Consequatur aspernatur, debitis deleniti quisquam nostrum eveniet quia quidem ipsum nulla ab vitae, omnis reiciendis temporibus est. Eligendi amet qui fuga tempore',
     }
 ]
